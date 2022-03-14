@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atiya Sanzida.</h1>
+<h1 align="center">Hi, I'm Atiya Sanzida.</h1>
 <h3 align="center"> My nickname is Tithy.I was born on 13 July,2002 at Akkelpur upazilla in Joypurhat district.Now,i am studying in department of Computer Science & Engineering in North South University. I am always try to gain knowledge.Tech related work is my favourite.
 </h3>
 
