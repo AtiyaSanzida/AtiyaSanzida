@@ -14,13 +14,13 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtiyaSanzida)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=masum2000&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AtiyaSanzida&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=masum2000)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AtiyaSanzida)  
 
-![Profile views](https://gpvc.arturio.dev/masum2000)  
+![Profile views](https://gpvc.arturio.dev/AtiyaSanzida)  
   
-![GitHub metrics](https://metrics.lecoq.io/masum2000) 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=masum2000) 
+![GitHub metrics](https://metrics.lecoq.io/AtiyaSanzida) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AtiyaSanzida) 
